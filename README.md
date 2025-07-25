@@ -12,7 +12,9 @@ YAugment不会对你包括任何使用的人进行信息收集，不会采集任
 
 
 
-> 下载使用，了解详情请看官方文档👉：https://docs.qq.com/aio/DV0FPZERhVnVNTkxk?electronTabTitle=%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E2%80%85YAugment&p=mRjQcHLo84C0TvVUPahqaD&client_hint=0
+> **下载使用，了解详情请看官方文档👉：https://docs.qq.com/aio/DV0FPZERhVnVNTkxk?electronTabTitle=%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E2%80%85YAugment&p=mRjQcHLo84C0TvVUPahqaD&client_hint=0**
+>
+> 
 >
 > **完全免费！！！**
 >
@@ -21,6 +23,8 @@ YAugment不会对你包括任何使用的人进行信息收集，不会采集任
 > **完全免费！！！**
 >
 > 重要的事情说三遍
+>
+> 
 >
 > 独家加固功能，非常稳！
 >
@@ -76,7 +80,7 @@ YAugment不会对你包括任何使用的人进行信息收集，不会采集任
 
     - Python真的不适合打包使用，一打包就像原本80斤的瘦子体重数字加了个单位
 
-    - ![tkplbqb](C:\Users\yan\Downloads\YAugment\img\tkplbqb.jpg)
+    - ![tkplbqb](.\img\tkplbqb.jpg)
 
     - ===========================
 
@@ -90,7 +94,7 @@ YAugment不会对你包括任何使用的人进行信息收集，不会采集任
 
     - 教程在公众号👇
 
-    - ![gzhjc](C:\Users\yan\Downloads\YAugment\img\gzhjc.png)
+    - ![gzhjc](.\img\gzhjc.png)
 
     - ------
 
@@ -126,8 +130,8 @@ YAugment不会对你包括任何使用的人进行信息收集，不会采集任
 
     - - [进群被拒绝或一直未同意 解决办法](https://docs.qq.com/aio/DV0FPZERhVnVNTkxk?p=weeUPrm77jpn2hKL5zDI1S)
 
-    - | **微信收款码**                                               | **支付宝收款码**                                             | **QQ群邀请码（1051756343）**                                 | **微信公众号(YanCchenX)**                                    |
-      | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-      | ![https://docimg8.docs.qq.com/image/AgAABlfAIvat8d1HgWRP845e6ts3DXQJ.png?w=1194&h=1194](C:\Users\yan\Downloads\YAugment\img\wx.png) | ![https://docimg3.docs.qq.com/image/AgAABlfAIvZ18T3-H_VP_peTIAS669yU.png?w=1224&h=1189](C:\Users\yan\Downloads\YAugment\img\zfb.png) | ![https://docimg2.docs.qq.com/image/AgAABlfAIvaz2-xnjqRFT4ayzM5q4km_.png?w=420&h=384](C:\Users\yan\Downloads\YAugment\img\qq.png) | ![https://docimg9.docs.qq.com/image/AgAABlfAIvarsWq6v_5EloolaQnEaRp4.jpeg?w=1280&h=1280](C:\Users\yan\Downloads\YAugment\img\gzh.jpg) |
+    - | **微信收款码**    | **支付宝收款码**   | **QQ群邀请码（1051756343）** | **微信公众号(YanCchenX)** |
+      | ----------------- | ------------------ | ---------------------------- | ------------------------- |
+      | ![](.\img\wx.png) | ![](.\img\zfb.png) | ![](.\img\qq.png)            | ![](.\img\gzh.jpg)        |
 
     - 
