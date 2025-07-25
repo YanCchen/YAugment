@@ -12,7 +12,7 @@ YAugment不会对你包括任何使用的人进行信息收集，不会采集任
 
 
 
-> 下载使用，了解详情请看链接👉：https://docs.qq.com/aio/DV0FPZERhVnVNTkxk?electronTabTitle=%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E2%80%85YAugment&p=mRjQcHLo84C0TvVUPahqaD&client_hint=0
+> 下载使用，了解详情请看官方文档👉：https://docs.qq.com/aio/DV0FPZERhVnVNTkxk?electronTabTitle=%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E2%80%85YAugment&p=mRjQcHLo84C0TvVUPahqaD&client_hint=0
 >
 > **完全免费！！！**
 >
